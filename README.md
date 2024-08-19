@@ -8,7 +8,7 @@ User
 
 <p align="left"> <a href="https://twitter.com/yashs33244" target="blank"><img src="https://img.shields.io/twitter/follow/yashs33244?logo=twitter&style=for-the-badge" alt="yashs33244" /></a> </p>
 
-- 🔭 I’m currently working on web-developement **E-tendering System**
+- 🔭 I’m currently working on web-developement **Resume-builder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
